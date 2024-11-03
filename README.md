@@ -44,16 +44,15 @@ For Software:
 
 <img width="1280" alt="readme-banner" src="images/PAST LIFE 2.png">
 
-<img width="1280" alt="readme-banner" src="https://raw.githubusercontent.com/Arshina014/whatever/refs/heads/main/images/PAST%20LIFE%203.png?token=GHSAT0AAAAAACZ4PLKV7K5QMEWDPJFJ6PYMZZG2GMQ">
+<img width="1280" alt="readme-banner" src="images/PAST LIFE 3.png">
 
 
 
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
+https://drive.google.com/file/d/1NcEXwpl2Sti1qDQYgAT8ya2HSADrUuxV/view?usp=sharing
 
 
 ## Team Contributions
