@@ -40,7 +40,7 @@ cd past-life-predictor
 For Software:
 
 # Screenshots (Add at least 3)
-<img width="1280" alt="readme-banner" src="https://raw.githubusercontent.com/Arshina014/whatever/refs/heads/main/images/PAST%20LIFE%201.png?token=GHSAT0AAAAAACZ4PLKU4JBDTNIPWPXWILJUZZG2GJA">
+<img width="1280" alt="readme-banner" src="images/PAST LIFE 1.png">
 
 <img width="1280" alt="readme-banner" src="https://raw.githubusercontent.com/Arshina014/whatever/refs/heads/main/images/PAST%20LIFE%202.png?token=GHSAT0AAAAAACZ4PLKUXEHFFIR34DEFNG3IZZG2GKQ">
 
