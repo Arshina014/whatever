@@ -30,10 +30,10 @@ For Software:
 ### Implementation
 For Software:
 # Installation
-git clone https://github.com/yourusername/past-life-predictor.git
+https://github.com/Arshina014/whatever
 
 # Run
-cd past-life-predictor
+cd whatever
 
 
 ### Project Documentation
