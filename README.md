@@ -42,7 +42,7 @@ For Software:
 # Screenshots (Add at least 3)
 <img width="1280" alt="readme-banner" src="images/PAST LIFE 1.png">
 
-<img width="1280" alt="readme-banner" src="https://raw.githubusercontent.com/Arshina014/whatever/refs/heads/main/images/PAST%20LIFE%202.png?token=GHSAT0AAAAAACZ4PLKUXEHFFIR34DEFNG3IZZG2GKQ">
+<img width="1280" alt="readme-banner" src="images/PAST LIFE 2.png">
 
 <img width="1280" alt="readme-banner" src="https://raw.githubusercontent.com/Arshina014/whatever/refs/heads/main/images/PAST%20LIFE%203.png?token=GHSAT0AAAAAACZ4PLKV7K5QMEWDPJFJ6PYMZZG2GMQ">
 
