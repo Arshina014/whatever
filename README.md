@@ -1,5 +1,9 @@
 
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
+https://drive.google.com/file/d/1NcEXwpl2Sti1qDQYgAT8ya2HSADrUuxV/view?usp=sharing
+https://github.com/Arshina014/whatever
+
+
 
 #Useless Project 🎯
 
