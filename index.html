@@ -6,7 +6,7 @@
     <title>Past Life Predictor</title>
     <style>
         body {
-            font-family: 'Arial', sans-serif; /* Change this to your preferred font */
+            font-family: 'Arial', sans-serif;
             margin: 0;
             overflow: hidden;
             position: relative;
@@ -18,7 +18,7 @@
             width: 100%;
             height: 100%;
             z-index: -1; /* u
-            object-fit: cover; /* Ensure the video covers the area */
+            object-fit: cover;
         }
         .container {
             display: none;
@@ -32,17 +32,17 @@
             right: 0;
             bottom: 0;
             color: white; /* Text color */
-            font-size: 24px; /* Increased font size */
+            font-size: 24px; 
         }
         .sign-in {
-            background-image: url('https://i.pinimg.com/originals/e9/4c/05/e94c05e17483abe7e85e5a4d672a2b7c.gif'); /* Placeholder for sign-in background */
+            background-image: url('https://i.pinimg.com/originals/e9/4c/05/e94c05e17483abe7e85e5a4d672a2b7c.gif');
             background-size: cover;
             color: white;
             backdrop-filter: blur(5px);
         }
         .home {
             background-image: url('https://media.istockphoto.com/id/867549748/photo/astronomy-concept.jpg?s=612x612&w=0&k=20&c=XnkscexaDSAvP236XAaX1upkeWZ56VOrXrbuS_ezPbM=');
-            background-size: cover; /* Ensures the image covers the entire area */
+            background-size: cover;
             color: #333;
             backdrop-filter: blur(5px);
         }
@@ -52,7 +52,7 @@
             backdrop-filter: blur(5px);
         }
         .form-container {
-            background: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+            background: rgba(0, 0, 0, 0.7);
             padding: 20px;
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
@@ -68,21 +68,21 @@
         input[type="password"],
         input[type="date"] {
             width: 100%;
-            padding: 10px; /* Increased padding */
+            padding: 10px;
             margin-bottom: 10px;
             border: 1px solid #ccc;
             border-radius: 4px;
-            font-size: 18px; /* Increased font size */
+            font-size: 18px;
         }
         button {
             width: 100%;
-            padding: 12px; /* Increased padding */
+            padding: 12px;
             background-color: #5cb85c;
             color: white;
             border: none;
             border-radius: 4px;
             cursor: pointer;
-            font-size: 18px; /* Increased font size */
+            font-size: 18px; 
         }
         button:hover {
             background-color: #4cae4c;
@@ -90,7 +90,7 @@
         .result-text {
             margin-top: 20px;
             font-style: italic;
-            font-size: 22px; /* Increased font size */
+            font-size: 22px; 
         }
     </style>
 </head>
@@ -157,7 +157,7 @@
                 { story: "You were a pirate,navigating risky waters for tresure and survival.", img: 'https://i.pinimg.com/originals/86/ec/5f/86ec5f1f8f991d4c6645b959d8f835dd.gif' },
                 { story: "You were a joker,who entertains the masses with his skills.", img: 'https://i.pinimg.com/originals/e1/db/6f/e1db6f88d80793fd5669dd23dad1a645.gif' },
                 { story: "You were a scientist,known for accidental discovery that saved millions of lives.", img: 'https://i.pinimg.com/originals/a3/48/b9/a348b9af27da3ddae216a9ddd45b9e0b.gif' },
-                // Add more past life scenarios here with respective images
+             
             ];
 
             const randomIndex = Math.floor(Math.random() * pastLifeStories.length);
@@ -165,7 +165,7 @@
 
             document.getElementById('resultText').innerText = selectedStory.story;
 
-            // Change the background based on the result
+           
             document.querySelector('.result').style.backgroundImage = `url('${selectedStory.img}')`;
             document.querySelector('.result').style.backgroundSize = 'cover';
 
